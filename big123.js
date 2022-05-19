@@ -1,5 +1,0 @@
-function (x, y, z) 
- {
- 
-
-}
