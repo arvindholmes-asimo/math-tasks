@@ -13,6 +13,6 @@ function  biggest(a,b,c){
 
 }
 const a = 10
-const b =15
-let c = 25
-console.log (biggest 3 Number)
+const b = 15
+const c = 25
+console.log ('biggest')
